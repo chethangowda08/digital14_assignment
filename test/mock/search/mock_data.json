@@ -1,0 +1,2913 @@
+{
+  "events": [
+    {
+      "type": "mlb",
+      "id": 5464936,
+      "datetime_utc": "2022-07-01T23:10:00",
+      "venue": {
+        "state": "NY",
+        "name_v2": "Citi Field",
+        "postal_code": "11368",
+        "name": "Citi Field",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/citi-field/tickets",
+        "score": 0.63,
+        "location": {
+          "lat": 40.7564,
+          "lon": -73.8459
+        },
+        "address": "123-01 Roosevelt Avenue",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 86,
+        "city": "Flushing",
+        "slug": "citi-field",
+        "extended_address": "Flushing, NY 11368",
+        "id": 3,
+        "popularity": 0,
+        "access_method": {
+          "method": "PDF417",
+          "created_at": "2016-07-06T19:14:48Z",
+          "employee_only": false
+        },
+        "metro_code": 501,
+        "capacity": 41800,
+        "display_location": "Flushing, NY"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "mlb",
+          "name": "New York Mets",
+          "image": "https://seatgeek.com/images/performers-landscape/new-york-mets-574acf/3/huge.jpg",
+          "id": 3,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/new-york-mets-574acf/3/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "National League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "NL East",
+              "display_name": "National League East",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "national-league-east"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 86
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/ekilby/5813444292/in/photolist-9RHqs9-6pUm6Z-7VAhP1-94S9EY-94P6gH-94S9om-arkeUQ-c8dQp5-c8dDkQ-6ivwpL-94P6z2-94P61v-94P6jg-94P5U2-94S9vb-94P6oK-5DMfS8-86RSwk-5suNeV-6ku6Hw-6JKjCM-6JKj6D-6kpVw8-6ku6Cf-ngTQSU-6pYK5f-6JKjKX-qUDoxG-6pUsxk-8vX9Pg-8vX73T-8vXbXM-8vXaBF-8w1awW-8w1e3b-8w1bjY-8vXd7X-8vX9d2-8vXdoF-8w1cE9-8vXaT8-8vXcei-8w1dHL-8vXa2B-8vXb8K-8vXcvp-8vX9xZ-8vX7Ev-8vXcRX-8w19FN",
+          "url": "https://seatgeek.com/new-york-mets-tickets",
+          "score": 0.47,
+          "slug": "new-york-mets",
+          "home_venue_id": 3,
+          "short_name": "Mets",
+          "num_upcoming_events": 86,
+          "colors": {
+            "all": [
+              "#002D72",
+              "#FF5910",
+              "#002D72"
+            ],
+            "iconic": "#002D72",
+            "primary": [
+              "#002D72",
+              "#FF5910"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 40.7564,
+            "lon": -73.8459
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/ekilby/5813444292/in/photolist-9RHqs9-6pUm6Z-7VAhP1-94S9EY-94P6gH-94S9om-arkeUQ-c8dQp5-c8dDkQ-6ivwpL-94P6z2-94P61v-94P6jg-94P5U2-94S9vb-94P6oK-5DMfS8-86RSwk-5suNeV-6ku6Hw-6JKjCM-6JKj6D-6kpVw8-6ku6Cf-ngTQSU-6pYK5f-6JKjKX-qUDoxG-6pUsxk-8vX9Pg-8vX73T-8vXbXM-8vXaBF-8w1awW-8w1e3b-8w1bjY-8vXd7X-8vX9d2-8vXdoF-8w1cE9-8vXaT8-8vXcei-8w1dHL-8vXa2B-8vXb8K-8vXcvp-8vX9xZ-8vX7Ev-8vXcRX-8w19FN) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@ekilby - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        },
+        {
+          "type": "mlb",
+          "name": "Texas Rangers",
+          "image": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg",
+          "id": 16,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL West",
+              "display_name": "American League West",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-west"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 88
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r",
+          "url": "https://seatgeek.com/texas-rangers-tickets",
+          "score": 0.47,
+          "slug": "texas-rangers",
+          "home_venue_id": 487468,
+          "short_name": "Rangers",
+          "num_upcoming_events": 88,
+          "colors": {
+            "all": [
+              "#003278",
+              "#C0111F",
+              "#003278"
+            ],
+            "iconic": "#003278",
+            "primary": [
+              "#003278",
+              "#C0111F"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 32.7472,
+            "lon": -97.0838
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@a4gpa - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-07-01T19:10:00",
+      "time_tbd": false,
+      "short_title": "Rangers at Mets",
+      "visible_until_utc": "2022-07-02T03:10:00",
+      "stats": {
+        "listing_count": 630,
+        "average_price": 307,
+        "lowest_price_good_deals": 39,
+        "lowest_price": 39,
+        "highest_price": 12504,
+        "visible_listing_count": 625,
+        "dq_bucket_counts": [
+          0,
+          281,
+          210,
+          79,
+          31,
+          12,
+          17,
+          0
+        ],
+        "median_price": 100,
+        "lowest_sg_base_price": 25,
+        "lowest_sg_base_price_good_deals": 25
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010100,
+          "name": "mlb",
+          "parent_id": 1010000,
+          "rank": 2
+        }
+      ],
+      "url": "https://seatgeek.com/rangers-at-mets-tickets/7-1-2022-flushing-new-york-citi-field/mlb/5464936",
+      "score": 0.78,
+      "announce_date": "2021-08-04T00:00:00",
+      "created_at": "2021-08-04T20:44:50",
+      "date_tbd": false,
+      "title": "Texas Rangers at New York Mets",
+      "popularity": 0.974,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "PDF417",
+        "created_at": "2016-07-06T19:14:48Z",
+        "employee_only": false
+      },
+      "event_promotion": {
+        "headline": "Fireworks",
+        "additional_info": "",
+        "images": {
+          "icon": "https://seatgeek.com/images/event_promotion/04ab4123-cabf-4668-89e5-74b5ea7c603c/icon.svg",
+          "png@2x": "https://seatgeek.com/images/event_promotion/04ab4123-cabf-4668-89e5-74b5ea7c603c/png_2x.png",
+          "png@3x": "https://seatgeek.com/images/event_promotion/04ab4123-cabf-4668-89e5-74b5ea7c603c/png_3x.png"
+        }
+      },
+      "announcements": {
+        "checkout_disclosures": {
+          "messages": [
+            {
+              "text": "All purchases are 100% guaranteed. Prices set by the seller may be above or below face value."
+            }
+          ]
+        }
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "mlb",
+      "id": 5464938,
+      "datetime_utc": "2022-07-02T20:10:00",
+      "venue": {
+        "state": "NY",
+        "name_v2": "Citi Field",
+        "postal_code": "11368",
+        "name": "Citi Field",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/citi-field/tickets",
+        "score": 0.63,
+        "location": {
+          "lat": 40.7564,
+          "lon": -73.8459
+        },
+        "address": "123-01 Roosevelt Avenue",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 86,
+        "city": "Flushing",
+        "slug": "citi-field",
+        "extended_address": "Flushing, NY 11368",
+        "id": 3,
+        "popularity": 0,
+        "access_method": {
+          "method": "PDF417",
+          "created_at": "2016-07-06T19:14:48Z",
+          "employee_only": false
+        },
+        "metro_code": 501,
+        "capacity": 41800,
+        "display_location": "Flushing, NY"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "mlb",
+          "name": "New York Mets",
+          "image": "https://seatgeek.com/images/performers-landscape/new-york-mets-574acf/3/huge.jpg",
+          "id": 3,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/new-york-mets-574acf/3/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "National League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "NL East",
+              "display_name": "National League East",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "national-league-east"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 86
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/ekilby/5813444292/in/photolist-9RHqs9-6pUm6Z-7VAhP1-94S9EY-94P6gH-94S9om-arkeUQ-c8dQp5-c8dDkQ-6ivwpL-94P6z2-94P61v-94P6jg-94P5U2-94S9vb-94P6oK-5DMfS8-86RSwk-5suNeV-6ku6Hw-6JKjCM-6JKj6D-6kpVw8-6ku6Cf-ngTQSU-6pYK5f-6JKjKX-qUDoxG-6pUsxk-8vX9Pg-8vX73T-8vXbXM-8vXaBF-8w1awW-8w1e3b-8w1bjY-8vXd7X-8vX9d2-8vXdoF-8w1cE9-8vXaT8-8vXcei-8w1dHL-8vXa2B-8vXb8K-8vXcvp-8vX9xZ-8vX7Ev-8vXcRX-8w19FN",
+          "url": "https://seatgeek.com/new-york-mets-tickets",
+          "score": 0.47,
+          "slug": "new-york-mets",
+          "home_venue_id": 3,
+          "short_name": "Mets",
+          "num_upcoming_events": 86,
+          "colors": {
+            "all": [
+              "#002D72",
+              "#FF5910",
+              "#002D72"
+            ],
+            "iconic": "#002D72",
+            "primary": [
+              "#002D72",
+              "#FF5910"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 40.7564,
+            "lon": -73.8459
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/ekilby/5813444292/in/photolist-9RHqs9-6pUm6Z-7VAhP1-94S9EY-94P6gH-94S9om-arkeUQ-c8dQp5-c8dDkQ-6ivwpL-94P6z2-94P61v-94P6jg-94P5U2-94S9vb-94P6oK-5DMfS8-86RSwk-5suNeV-6ku6Hw-6JKjCM-6JKj6D-6kpVw8-6ku6Cf-ngTQSU-6pYK5f-6JKjKX-qUDoxG-6pUsxk-8vX9Pg-8vX73T-8vXbXM-8vXaBF-8w1awW-8w1e3b-8w1bjY-8vXd7X-8vX9d2-8vXdoF-8w1cE9-8vXaT8-8vXcei-8w1dHL-8vXa2B-8vXb8K-8vXcvp-8vX9xZ-8vX7Ev-8vXcRX-8w19FN) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@ekilby - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        },
+        {
+          "type": "mlb",
+          "name": "Texas Rangers",
+          "image": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg",
+          "id": 16,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL West",
+              "display_name": "American League West",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-west"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 88
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r",
+          "url": "https://seatgeek.com/texas-rangers-tickets",
+          "score": 0.47,
+          "slug": "texas-rangers",
+          "home_venue_id": 487468,
+          "short_name": "Rangers",
+          "num_upcoming_events": 88,
+          "colors": {
+            "all": [
+              "#003278",
+              "#C0111F",
+              "#003278"
+            ],
+            "iconic": "#003278",
+            "primary": [
+              "#003278",
+              "#C0111F"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 32.7472,
+            "lon": -97.0838
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@a4gpa - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-07-02T16:10:00",
+      "time_tbd": false,
+      "short_title": "Rangers at Mets",
+      "visible_until_utc": "2022-07-03T00:10:00",
+      "stats": {
+        "listing_count": 1165,
+        "average_price": 90,
+        "lowest_price_good_deals": 20,
+        "lowest_price": 20,
+        "highest_price": 1291,
+        "visible_listing_count": 1138,
+        "dq_bucket_counts": [
+          9,
+          383,
+          476,
+          99,
+          71,
+          64,
+          65,
+          0
+        ],
+        "median_price": 66,
+        "lowest_sg_base_price": 10,
+        "lowest_sg_base_price_good_deals": 10
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010100,
+          "name": "mlb",
+          "parent_id": 1010000,
+          "rank": 2
+        }
+      ],
+      "url": "https://seatgeek.com/rangers-at-mets-tickets/7-2-2022-flushing-new-york-citi-field/mlb/5464938",
+      "score": 0.796,
+      "announce_date": "2021-08-04T00:00:00",
+      "created_at": "2021-08-04T20:44:50",
+      "date_tbd": false,
+      "title": "Texas Rangers at New York Mets",
+      "popularity": 0.97,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "PDF417",
+        "created_at": "2016-07-06T19:14:48Z",
+        "employee_only": false
+      },
+      "event_promotion": null,
+      "announcements": {
+        "checkout_disclosures": {
+          "messages": [
+            {
+              "text": "All purchases are 100% guaranteed. Prices set by the seller may be above or below face value."
+            }
+          ]
+        }
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "mlb",
+      "id": 5464940,
+      "datetime_utc": "2022-07-03T17:10:00",
+      "venue": {
+        "state": "NY",
+        "name_v2": "Citi Field",
+        "postal_code": "11368",
+        "name": "Citi Field",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/citi-field/tickets",
+        "score": 0.63,
+        "location": {
+          "lat": 40.7564,
+          "lon": -73.8459
+        },
+        "address": "123-01 Roosevelt Avenue",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 86,
+        "city": "Flushing",
+        "slug": "citi-field",
+        "extended_address": "Flushing, NY 11368",
+        "id": 3,
+        "popularity": 0,
+        "access_method": {
+          "method": "PDF417",
+          "created_at": "2016-07-06T19:14:48Z",
+          "employee_only": false
+        },
+        "metro_code": 501,
+        "capacity": 41800,
+        "display_location": "Flushing, NY"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "mlb",
+          "name": "New York Mets",
+          "image": "https://seatgeek.com/images/performers-landscape/new-york-mets-574acf/3/huge.jpg",
+          "id": 3,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/new-york-mets-574acf/3/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "National League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "NL East",
+              "display_name": "National League East",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "national-league-east"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 86
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/ekilby/5813444292/in/photolist-9RHqs9-6pUm6Z-7VAhP1-94S9EY-94P6gH-94S9om-arkeUQ-c8dQp5-c8dDkQ-6ivwpL-94P6z2-94P61v-94P6jg-94P5U2-94S9vb-94P6oK-5DMfS8-86RSwk-5suNeV-6ku6Hw-6JKjCM-6JKj6D-6kpVw8-6ku6Cf-ngTQSU-6pYK5f-6JKjKX-qUDoxG-6pUsxk-8vX9Pg-8vX73T-8vXbXM-8vXaBF-8w1awW-8w1e3b-8w1bjY-8vXd7X-8vX9d2-8vXdoF-8w1cE9-8vXaT8-8vXcei-8w1dHL-8vXa2B-8vXb8K-8vXcvp-8vX9xZ-8vX7Ev-8vXcRX-8w19FN",
+          "url": "https://seatgeek.com/new-york-mets-tickets",
+          "score": 0.47,
+          "slug": "new-york-mets",
+          "home_venue_id": 3,
+          "short_name": "Mets",
+          "num_upcoming_events": 86,
+          "colors": {
+            "all": [
+              "#002D72",
+              "#FF5910",
+              "#002D72"
+            ],
+            "iconic": "#002D72",
+            "primary": [
+              "#002D72",
+              "#FF5910"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 40.7564,
+            "lon": -73.8459
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/ekilby/5813444292/in/photolist-9RHqs9-6pUm6Z-7VAhP1-94S9EY-94P6gH-94S9om-arkeUQ-c8dQp5-c8dDkQ-6ivwpL-94P6z2-94P61v-94P6jg-94P5U2-94S9vb-94P6oK-5DMfS8-86RSwk-5suNeV-6ku6Hw-6JKjCM-6JKj6D-6kpVw8-6ku6Cf-ngTQSU-6pYK5f-6JKjKX-qUDoxG-6pUsxk-8vX9Pg-8vX73T-8vXbXM-8vXaBF-8w1awW-8w1e3b-8w1bjY-8vXd7X-8vX9d2-8vXdoF-8w1cE9-8vXaT8-8vXcei-8w1dHL-8vXa2B-8vXb8K-8vXcvp-8vX9xZ-8vX7Ev-8vXcRX-8w19FN) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@ekilby - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        },
+        {
+          "type": "mlb",
+          "name": "Texas Rangers",
+          "image": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg",
+          "id": 16,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL West",
+              "display_name": "American League West",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-west"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 88
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r",
+          "url": "https://seatgeek.com/texas-rangers-tickets",
+          "score": 0.47,
+          "slug": "texas-rangers",
+          "home_venue_id": 487468,
+          "short_name": "Rangers",
+          "num_upcoming_events": 88,
+          "colors": {
+            "all": [
+              "#003278",
+              "#C0111F",
+              "#003278"
+            ],
+            "iconic": "#003278",
+            "primary": [
+              "#003278",
+              "#C0111F"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 32.7472,
+            "lon": -97.0838
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@a4gpa - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-07-03T13:10:00",
+      "time_tbd": false,
+      "short_title": "Rangers at Mets",
+      "visible_until_utc": "2022-07-03T21:10:00",
+      "stats": {
+        "listing_count": 1059,
+        "average_price": 90,
+        "lowest_price_good_deals": 28,
+        "lowest_price": 28,
+        "highest_price": 1291,
+        "visible_listing_count": 1033,
+        "dq_bucket_counts": [
+          23,
+          501,
+          227,
+          65,
+          61,
+          102,
+          82,
+          0
+        ],
+        "median_price": 63,
+        "lowest_sg_base_price": 17,
+        "lowest_sg_base_price_good_deals": 17
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010100,
+          "name": "mlb",
+          "parent_id": 1010000,
+          "rank": 2
+        }
+      ],
+      "url": "https://seatgeek.com/rangers-at-mets-tickets/7-3-2022-flushing-new-york-citi-field/mlb/5464940",
+      "score": 0.776,
+      "announce_date": "2021-08-04T00:00:00",
+      "created_at": "2021-08-04T20:44:50",
+      "date_tbd": false,
+      "title": "Texas Rangers at New York Mets",
+      "popularity": 0.955,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "PDF417",
+        "created_at": "2016-07-06T19:14:48Z",
+        "employee_only": false
+      },
+      "event_promotion": null,
+      "announcements": {
+        "checkout_disclosures": {
+          "messages": [
+            {
+              "text": "All purchases are 100% guaranteed. Prices set by the seller may be above or below face value."
+            }
+          ]
+        }
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "mlb",
+      "id": 5461855,
+      "datetime_utc": "2022-07-04T17:05:00",
+      "venue": {
+        "state": "MD",
+        "name_v2": "Oriole Park at Camden Yards",
+        "postal_code": "21202",
+        "name": "Oriole Park at Camden Yards",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/oriole-park-at-camden-yards/tickets",
+        "score": 0.61,
+        "location": {
+          "lat": 39.284,
+          "lon": -76.6199
+        },
+        "address": "333 West Camden Street",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 45,
+        "city": "Baltimore",
+        "slug": "oriole-park-at-camden-yards",
+        "extended_address": "Baltimore, MD 21202",
+        "id": 25,
+        "popularity": 0,
+        "access_method": {
+          "method": "PDF417",
+          "created_at": "2015-06-24T00:00:00Z",
+          "employee_only": false
+        },
+        "metro_code": 512,
+        "capacity": 48876,
+        "display_location": "Baltimore, MD"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "mlb",
+          "name": "Baltimore Orioles",
+          "image": "https://seatgeek.com/images/performers-landscape/baltimore-orioles-aa5e0c/25/huge.jpg",
+          "id": 25,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/baltimore-orioles-aa5e0c/25/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL East",
+              "display_name": "American League East",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-east"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 86
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/keithallison/17073853777/in/photolist-s1KXTg-sidpaj-oWwDK8-pjoSxH-s3eLg2-tdgD9s-fwrSpk-fwrNhi-tfBSoF-fwGcpL-f9AnJD-f9uv9F-eWhVb2-fPvFep-fBhDZQ-eWuyZh-pj5i3Z-fohmdU-oYjSwd-cFu4C7-e93Ezf-tiHoPD-cFtWUy-cFtS5h-pfPEnp-fyeoPs-fNydWC-smR84B-nTJfTB-f9uxoD-fBHk6k-onJP89-cFtKbY-t7xpUz-eKiTc3-eJraf7-fQqFQJ-eWmuva-s51Zsh-eAx4AP-t5qLC8-rotVms-fyVy8u-f9KtwC-t5tnyX-eK8S9B-eNMzHA-exbqrB-rLPF1g-cpcnHh",
+          "url": "https://seatgeek.com/baltimore-orioles-tickets",
+          "score": 0.46,
+          "slug": "baltimore-orioles",
+          "home_venue_id": 25,
+          "short_name": "Orioles",
+          "num_upcoming_events": 86,
+          "colors": {
+            "all": [
+              "#181818",
+              "#DF4601",
+              "#181818"
+            ],
+            "iconic": "#DF4601",
+            "primary": [
+              "#181818",
+              "#DF4601"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 39.284,
+            "lon": -76.6199
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/keithallison/17073853777/in/photolist-s1KXTg-sidpaj-oWwDK8-pjoSxH-s3eLg2-tdgD9s-fwrSpk-fwrNhi-tfBSoF-fwGcpL-f9AnJD-f9uv9F-eWhVb2-fPvFep-fBhDZQ-eWuyZh-pj5i3Z-fohmdU-oYjSwd-cFu4C7-e93Ezf-tiHoPD-cFtWUy-cFtS5h-pfPEnp-fyeoPs-fNydWC-smR84B-nTJfTB-f9uxoD-fBHk6k-onJP89-cFtKbY-t7xpUz-eKiTc3-eJraf7-fQqFQJ-eWmuva-s51Zsh-eAx4AP-t5qLC8-rotVms-fyVy8u-f9KtwC-t5tnyX-eK8S9B-eNMzHA-exbqrB-rLPF1g-cpcnHh) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@keithallison - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        },
+        {
+          "type": "mlb",
+          "name": "Texas Rangers",
+          "image": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg",
+          "id": 16,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL West",
+              "display_name": "American League West",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-west"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 88
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r",
+          "url": "https://seatgeek.com/texas-rangers-tickets",
+          "score": 0.47,
+          "slug": "texas-rangers",
+          "home_venue_id": 487468,
+          "short_name": "Rangers",
+          "num_upcoming_events": 88,
+          "colors": {
+            "all": [
+              "#003278",
+              "#C0111F",
+              "#003278"
+            ],
+            "iconic": "#003278",
+            "primary": [
+              "#003278",
+              "#C0111F"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 32.7472,
+            "lon": -97.0838
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@a4gpa - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-07-04T13:05:00",
+      "time_tbd": false,
+      "short_title": "Rangers at Orioles",
+      "visible_until_utc": "2022-07-04T21:05:00",
+      "stats": {
+        "listing_count": 382,
+        "average_price": 72,
+        "lowest_price_good_deals": 22,
+        "lowest_price": 22,
+        "highest_price": 294,
+        "visible_listing_count": 375,
+        "dq_bucket_counts": [
+          21,
+          167,
+          74,
+          18,
+          34,
+          33,
+          37,
+          0
+        ],
+        "median_price": 53,
+        "lowest_sg_base_price": 11,
+        "lowest_sg_base_price_good_deals": 11
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010100,
+          "name": "mlb",
+          "parent_id": 1010000,
+          "rank": 2
+        }
+      ],
+      "url": "https://seatgeek.com/rangers-at-orioles-tickets/7-4-2022-baltimore-maryland-oriole-park-at-camden-yards/mlb/5461855",
+      "score": 0.713,
+      "announce_date": "2021-08-04T00:00:00",
+      "created_at": "2021-08-04T19:45:57",
+      "date_tbd": false,
+      "title": "Texas Rangers at Baltimore Orioles",
+      "popularity": 0.914,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "PDF417",
+        "created_at": "2015-06-24T00:00:00Z",
+        "employee_only": false
+      },
+      "event_promotion": {
+        "headline": "Orioles T-Shirt",
+        "additional_info": "First 15,000 fans 15 & older",
+        "images": {
+          "icon": "https://seatgeek.com/images/event_promotion/3cbf328e-b974-4391-9eda-5704d56d4aa9/icon.svg",
+          "png@2x": "https://seatgeek.com/images/event_promotion/3cbf328e-b974-4391-9eda-5704d56d4aa9/png_2x.png",
+          "png@3x": "https://seatgeek.com/images/event_promotion/3cbf328e-b974-4391-9eda-5704d56d4aa9/png_3x.png"
+        }
+      },
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "mlb",
+      "id": 5461857,
+      "datetime_utc": "2022-07-05T23:05:00",
+      "venue": {
+        "state": "MD",
+        "name_v2": "Oriole Park at Camden Yards",
+        "postal_code": "21202",
+        "name": "Oriole Park at Camden Yards",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/oriole-park-at-camden-yards/tickets",
+        "score": 0.61,
+        "location": {
+          "lat": 39.284,
+          "lon": -76.6199
+        },
+        "address": "333 West Camden Street",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 45,
+        "city": "Baltimore",
+        "slug": "oriole-park-at-camden-yards",
+        "extended_address": "Baltimore, MD 21202",
+        "id": 25,
+        "popularity": 0,
+        "access_method": {
+          "method": "PDF417",
+          "created_at": "2015-06-24T00:00:00Z",
+          "employee_only": false
+        },
+        "metro_code": 512,
+        "capacity": 48876,
+        "display_location": "Baltimore, MD"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "mlb",
+          "name": "Baltimore Orioles",
+          "image": "https://seatgeek.com/images/performers-landscape/baltimore-orioles-aa5e0c/25/huge.jpg",
+          "id": 25,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/baltimore-orioles-aa5e0c/25/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL East",
+              "display_name": "American League East",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-east"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 86
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/keithallison/17073853777/in/photolist-s1KXTg-sidpaj-oWwDK8-pjoSxH-s3eLg2-tdgD9s-fwrSpk-fwrNhi-tfBSoF-fwGcpL-f9AnJD-f9uv9F-eWhVb2-fPvFep-fBhDZQ-eWuyZh-pj5i3Z-fohmdU-oYjSwd-cFu4C7-e93Ezf-tiHoPD-cFtWUy-cFtS5h-pfPEnp-fyeoPs-fNydWC-smR84B-nTJfTB-f9uxoD-fBHk6k-onJP89-cFtKbY-t7xpUz-eKiTc3-eJraf7-fQqFQJ-eWmuva-s51Zsh-eAx4AP-t5qLC8-rotVms-fyVy8u-f9KtwC-t5tnyX-eK8S9B-eNMzHA-exbqrB-rLPF1g-cpcnHh",
+          "url": "https://seatgeek.com/baltimore-orioles-tickets",
+          "score": 0.46,
+          "slug": "baltimore-orioles",
+          "home_venue_id": 25,
+          "short_name": "Orioles",
+          "num_upcoming_events": 86,
+          "colors": {
+            "all": [
+              "#181818",
+              "#DF4601",
+              "#181818"
+            ],
+            "iconic": "#DF4601",
+            "primary": [
+              "#181818",
+              "#DF4601"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 39.284,
+            "lon": -76.6199
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/keithallison/17073853777/in/photolist-s1KXTg-sidpaj-oWwDK8-pjoSxH-s3eLg2-tdgD9s-fwrSpk-fwrNhi-tfBSoF-fwGcpL-f9AnJD-f9uv9F-eWhVb2-fPvFep-fBhDZQ-eWuyZh-pj5i3Z-fohmdU-oYjSwd-cFu4C7-e93Ezf-tiHoPD-cFtWUy-cFtS5h-pfPEnp-fyeoPs-fNydWC-smR84B-nTJfTB-f9uxoD-fBHk6k-onJP89-cFtKbY-t7xpUz-eKiTc3-eJraf7-fQqFQJ-eWmuva-s51Zsh-eAx4AP-t5qLC8-rotVms-fyVy8u-f9KtwC-t5tnyX-eK8S9B-eNMzHA-exbqrB-rLPF1g-cpcnHh) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@keithallison - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        },
+        {
+          "type": "mlb",
+          "name": "Texas Rangers",
+          "image": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg",
+          "id": 16,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL West",
+              "display_name": "American League West",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-west"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 88
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r",
+          "url": "https://seatgeek.com/texas-rangers-tickets",
+          "score": 0.47,
+          "slug": "texas-rangers",
+          "home_venue_id": 487468,
+          "short_name": "Rangers",
+          "num_upcoming_events": 88,
+          "colors": {
+            "all": [
+              "#003278",
+              "#C0111F",
+              "#003278"
+            ],
+            "iconic": "#003278",
+            "primary": [
+              "#003278",
+              "#C0111F"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 32.7472,
+            "lon": -97.0838
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@a4gpa - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-07-05T19:05:00",
+      "time_tbd": false,
+      "short_title": "Rangers at Orioles",
+      "visible_until_utc": "2022-07-06T03:05:00",
+      "stats": {
+        "listing_count": 330,
+        "average_price": 67,
+        "lowest_price_good_deals": 22,
+        "lowest_price": 22,
+        "highest_price": 390,
+        "visible_listing_count": 322,
+        "dq_bucket_counts": [
+          18,
+          157,
+          58,
+          23,
+          40,
+          27,
+          36,
+          0
+        ],
+        "median_price": 50,
+        "lowest_sg_base_price": 12,
+        "lowest_sg_base_price_good_deals": 12
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010100,
+          "name": "mlb",
+          "parent_id": 1010000,
+          "rank": 2
+        }
+      ],
+      "url": "https://seatgeek.com/rangers-at-orioles-tickets/7-5-2022-baltimore-maryland-oriole-park-at-camden-yards/mlb/5461857",
+      "score": 0.706,
+      "announce_date": "2021-08-04T00:00:00",
+      "created_at": "2021-08-04T19:45:57",
+      "date_tbd": false,
+      "title": "Texas Rangers at Baltimore Orioles",
+      "popularity": 0.905,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "PDF417",
+        "created_at": "2015-06-24T00:00:00Z",
+        "employee_only": false
+      },
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "mlb",
+      "id": 5461859,
+      "datetime_utc": "2022-07-06T23:05:00",
+      "venue": {
+        "state": "MD",
+        "name_v2": "Oriole Park at Camden Yards",
+        "postal_code": "21202",
+        "name": "Oriole Park at Camden Yards",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/oriole-park-at-camden-yards/tickets",
+        "score": 0.61,
+        "location": {
+          "lat": 39.284,
+          "lon": -76.6199
+        },
+        "address": "333 West Camden Street",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 45,
+        "city": "Baltimore",
+        "slug": "oriole-park-at-camden-yards",
+        "extended_address": "Baltimore, MD 21202",
+        "id": 25,
+        "popularity": 0,
+        "access_method": {
+          "method": "PDF417",
+          "created_at": "2015-06-24T00:00:00Z",
+          "employee_only": false
+        },
+        "metro_code": 512,
+        "capacity": 48876,
+        "display_location": "Baltimore, MD"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "mlb",
+          "name": "Baltimore Orioles",
+          "image": "https://seatgeek.com/images/performers-landscape/baltimore-orioles-aa5e0c/25/huge.jpg",
+          "id": 25,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/baltimore-orioles-aa5e0c/25/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL East",
+              "display_name": "American League East",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-east"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 86
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/keithallison/17073853777/in/photolist-s1KXTg-sidpaj-oWwDK8-pjoSxH-s3eLg2-tdgD9s-fwrSpk-fwrNhi-tfBSoF-fwGcpL-f9AnJD-f9uv9F-eWhVb2-fPvFep-fBhDZQ-eWuyZh-pj5i3Z-fohmdU-oYjSwd-cFu4C7-e93Ezf-tiHoPD-cFtWUy-cFtS5h-pfPEnp-fyeoPs-fNydWC-smR84B-nTJfTB-f9uxoD-fBHk6k-onJP89-cFtKbY-t7xpUz-eKiTc3-eJraf7-fQqFQJ-eWmuva-s51Zsh-eAx4AP-t5qLC8-rotVms-fyVy8u-f9KtwC-t5tnyX-eK8S9B-eNMzHA-exbqrB-rLPF1g-cpcnHh",
+          "url": "https://seatgeek.com/baltimore-orioles-tickets",
+          "score": 0.46,
+          "slug": "baltimore-orioles",
+          "home_venue_id": 25,
+          "short_name": "Orioles",
+          "num_upcoming_events": 86,
+          "colors": {
+            "all": [
+              "#181818",
+              "#DF4601",
+              "#181818"
+            ],
+            "iconic": "#DF4601",
+            "primary": [
+              "#181818",
+              "#DF4601"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 39.284,
+            "lon": -76.6199
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/keithallison/17073853777/in/photolist-s1KXTg-sidpaj-oWwDK8-pjoSxH-s3eLg2-tdgD9s-fwrSpk-fwrNhi-tfBSoF-fwGcpL-f9AnJD-f9uv9F-eWhVb2-fPvFep-fBhDZQ-eWuyZh-pj5i3Z-fohmdU-oYjSwd-cFu4C7-e93Ezf-tiHoPD-cFtWUy-cFtS5h-pfPEnp-fyeoPs-fNydWC-smR84B-nTJfTB-f9uxoD-fBHk6k-onJP89-cFtKbY-t7xpUz-eKiTc3-eJraf7-fQqFQJ-eWmuva-s51Zsh-eAx4AP-t5qLC8-rotVms-fyVy8u-f9KtwC-t5tnyX-eK8S9B-eNMzHA-exbqrB-rLPF1g-cpcnHh) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@keithallison - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        },
+        {
+          "type": "mlb",
+          "name": "Texas Rangers",
+          "image": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg",
+          "id": 16,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL West",
+              "display_name": "American League West",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-west"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 88
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r",
+          "url": "https://seatgeek.com/texas-rangers-tickets",
+          "score": 0.47,
+          "slug": "texas-rangers",
+          "home_venue_id": 487468,
+          "short_name": "Rangers",
+          "num_upcoming_events": 88,
+          "colors": {
+            "all": [
+              "#003278",
+              "#C0111F",
+              "#003278"
+            ],
+            "iconic": "#003278",
+            "primary": [
+              "#003278",
+              "#C0111F"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 32.7472,
+            "lon": -97.0838
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@a4gpa - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-07-06T19:05:00",
+      "time_tbd": false,
+      "short_title": "Rangers at Orioles",
+      "visible_until_utc": "2022-07-07T03:05:00",
+      "stats": {
+        "listing_count": 372,
+        "average_price": 68,
+        "lowest_price_good_deals": 23,
+        "lowest_price": 23,
+        "highest_price": 390,
+        "visible_listing_count": 361,
+        "dq_bucket_counts": [
+          13,
+          173,
+          66,
+          24,
+          25,
+          16,
+          52,
+          0
+        ],
+        "median_price": 50,
+        "lowest_sg_base_price": 13,
+        "lowest_sg_base_price_good_deals": 13
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010100,
+          "name": "mlb",
+          "parent_id": 1010000,
+          "rank": 2
+        }
+      ],
+      "url": "https://seatgeek.com/rangers-at-orioles-tickets/7-6-2022-baltimore-maryland-oriole-park-at-camden-yards/mlb/5461859",
+      "score": 0.703,
+      "announce_date": "2021-08-04T00:00:00",
+      "created_at": "2021-08-04T19:45:58",
+      "date_tbd": false,
+      "title": "Texas Rangers at Baltimore Orioles",
+      "popularity": 0.897,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "PDF417",
+        "created_at": "2015-06-24T00:00:00Z",
+        "employee_only": false
+      },
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "mlb",
+      "id": 5465586,
+      "datetime_utc": "2022-07-09T00:05:00",
+      "venue": {
+        "state": "TX",
+        "name_v2": "Globe Life Field",
+        "postal_code": "76011",
+        "name": "Globe Life Field",
+        "links": [],
+        "timezone": "America/Chicago",
+        "url": "https://seatgeek.com/venues/globe-life-field/tickets",
+        "score": 0.62,
+        "location": {
+          "lat": 32.7472,
+          "lon": -97.0838
+        },
+        "address": "734 Stadium Drive",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 50,
+        "city": "Arlington",
+        "slug": "globe-life-field",
+        "extended_address": "Arlington, TX 76011",
+        "id": 487468,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 623,
+        "capacity": 40300,
+        "display_location": "Arlington, TX"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "mlb",
+          "name": "Texas Rangers",
+          "image": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg",
+          "id": 16,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL West",
+              "display_name": "American League West",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-west"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 88
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r",
+          "url": "https://seatgeek.com/texas-rangers-tickets",
+          "score": 0.47,
+          "slug": "texas-rangers",
+          "home_venue_id": 487468,
+          "short_name": "Rangers",
+          "num_upcoming_events": 88,
+          "colors": {
+            "all": [
+              "#003278",
+              "#C0111F",
+              "#003278"
+            ],
+            "iconic": "#003278",
+            "primary": [
+              "#003278",
+              "#C0111F"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 32.7472,
+            "lon": -97.0838
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@a4gpa - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        },
+        {
+          "type": "mlb",
+          "name": "Minnesota Twins",
+          "image": "https://seatgeek.com/images/performers-landscape/minnesota-twins-49e40b/19/huge.jpg",
+          "id": 19,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/minnesota-twins-49e40b/19/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL Central",
+              "display_name": "American League Central",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-central"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 83
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/ekilby/4925516994/in/photolist-8vfyAN-7jsWXe-8Co8gh-8vfys1-9EbSVm-8vcvYn-a3uCNw-pwwc2F-djq9aM-jKSkKf-8vcvRc-jGTfZi-72vcw-bNrHnM-bzx4CU-8FGazW-sLxxSK-sLxBX8-nptEK4-nFWUDS-nFFouF-sLmgaQ-nFFiUD-n6ga3g-sLmfe1-stXtuN-nFWZaW-nDVC5L-66L7Mk-sLxCXz-7TBVHC-nHDWy4-nHDUon-nHDUrt-nFRdFL-nFzBi8-nFRcNJ-nFzBZD-nFRe1d-nHDVhg-nHDWNT-nFEMML-npod4B-npo58E-nFzCxn-nFRcEY-nFEMzm-npo5fo-nHDUPH-npnQW8",
+          "url": "https://seatgeek.com/minnesota-twins-tickets",
+          "score": 0.46,
+          "slug": "minnesota-twins",
+          "home_venue_id": 3712,
+          "short_name": "Twins",
+          "num_upcoming_events": 83,
+          "colors": {
+            "all": [
+              "#002B5C",
+              "#D31145",
+              "#002B5C"
+            ],
+            "iconic": "#002B5C",
+            "primary": [
+              "#002B5C",
+              "#D31145"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 44.9817,
+            "lon": -93.2776
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/ekilby/4925516994/in/photolist-8vfyAN-7jsWXe-8Co8gh-8vfys1-9EbSVm-8vcvYn-a3uCNw-pwwc2F-djq9aM-jKSkKf-8vcvRc-jGTfZi-72vcw-bNrHnM-bzx4CU-8FGazW-sLxxSK-sLxBX8-nptEK4-nFWUDS-nFFouF-sLmgaQ-nFFiUD-n6ga3g-sLmfe1-stXtuN-nFWZaW-nDVC5L-66L7Mk-sLxCXz-7TBVHC-nHDWy4-nHDUon-nHDUrt-nFRdFL-nFzBi8-nFRcNJ-nFzBZD-nFRe1d-nHDVhg-nHDWNT-nFEMML-npod4B-npo58E-nFzCxn-nFRcEY-nFEMzm-npo5fo-nHDUPH-npnQW8) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@ekilby - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-07-08T19:05:00",
+      "time_tbd": false,
+      "short_title": "Twins at Rangers",
+      "visible_until_utc": "2022-07-09T04:05:00",
+      "stats": {
+        "listing_count": 773,
+        "average_price": 91,
+        "lowest_price_good_deals": 25,
+        "lowest_price": 25,
+        "highest_price": 1341,
+        "visible_listing_count": 725,
+        "dq_bucket_counts": [
+          75,
+          216,
+          198,
+          74,
+          61,
+          73,
+          71,
+          0
+        ],
+        "median_price": 59,
+        "lowest_sg_base_price": 14,
+        "lowest_sg_base_price_good_deals": 14
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010100,
+          "name": "mlb",
+          "parent_id": 1010000,
+          "rank": 2
+        }
+      ],
+      "url": "https://seatgeek.com/twins-at-rangers-tickets/7-8-2022-arlington-texas-globe-life-field/mlb/5465586",
+      "score": 0.775,
+      "announce_date": "2021-08-04T00:00:00",
+      "created_at": "2021-08-04T20:46:32",
+      "date_tbd": false,
+      "title": "Minnesota Twins at Texas Rangers",
+      "popularity": 0.926,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": {
+        "headline": "50th Anniversary Statue",
+        "additional_info": "First 15,000 fans",
+        "images": {
+          "icon": "https://seatgeek.com/images/event_promotion/f79db8d0-4200-449a-9bef-ad63c9d39b1b/icon.svg",
+          "png@2x": "https://seatgeek.com/images/event_promotion/f79db8d0-4200-449a-9bef-ad63c9d39b1b/png_2x.png",
+          "png@3x": "https://seatgeek.com/images/event_promotion/f79db8d0-4200-449a-9bef-ad63c9d39b1b/png_3x.png"
+        }
+      },
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "mlb",
+      "id": 5465588,
+      "datetime_utc": "2022-07-09T20:05:00",
+      "venue": {
+        "state": "TX",
+        "name_v2": "Globe Life Field",
+        "postal_code": "76011",
+        "name": "Globe Life Field",
+        "links": [],
+        "timezone": "America/Chicago",
+        "url": "https://seatgeek.com/venues/globe-life-field/tickets",
+        "score": 0.62,
+        "location": {
+          "lat": 32.7472,
+          "lon": -97.0838
+        },
+        "address": "734 Stadium Drive",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 50,
+        "city": "Arlington",
+        "slug": "globe-life-field",
+        "extended_address": "Arlington, TX 76011",
+        "id": 487468,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 623,
+        "capacity": 40300,
+        "display_location": "Arlington, TX"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "mlb",
+          "name": "Texas Rangers",
+          "image": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg",
+          "id": 16,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL West",
+              "display_name": "American League West",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-west"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 88
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r",
+          "url": "https://seatgeek.com/texas-rangers-tickets",
+          "score": 0.47,
+          "slug": "texas-rangers",
+          "home_venue_id": 487468,
+          "short_name": "Rangers",
+          "num_upcoming_events": 88,
+          "colors": {
+            "all": [
+              "#003278",
+              "#C0111F",
+              "#003278"
+            ],
+            "iconic": "#003278",
+            "primary": [
+              "#003278",
+              "#C0111F"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 32.7472,
+            "lon": -97.0838
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@a4gpa - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        },
+        {
+          "type": "mlb",
+          "name": "Minnesota Twins",
+          "image": "https://seatgeek.com/images/performers-landscape/minnesota-twins-49e40b/19/huge.jpg",
+          "id": 19,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/minnesota-twins-49e40b/19/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL Central",
+              "display_name": "American League Central",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-central"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 83
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/ekilby/4925516994/in/photolist-8vfyAN-7jsWXe-8Co8gh-8vfys1-9EbSVm-8vcvYn-a3uCNw-pwwc2F-djq9aM-jKSkKf-8vcvRc-jGTfZi-72vcw-bNrHnM-bzx4CU-8FGazW-sLxxSK-sLxBX8-nptEK4-nFWUDS-nFFouF-sLmgaQ-nFFiUD-n6ga3g-sLmfe1-stXtuN-nFWZaW-nDVC5L-66L7Mk-sLxCXz-7TBVHC-nHDWy4-nHDUon-nHDUrt-nFRdFL-nFzBi8-nFRcNJ-nFzBZD-nFRe1d-nHDVhg-nHDWNT-nFEMML-npod4B-npo58E-nFzCxn-nFRcEY-nFEMzm-npo5fo-nHDUPH-npnQW8",
+          "url": "https://seatgeek.com/minnesota-twins-tickets",
+          "score": 0.46,
+          "slug": "minnesota-twins",
+          "home_venue_id": 3712,
+          "short_name": "Twins",
+          "num_upcoming_events": 83,
+          "colors": {
+            "all": [
+              "#002B5C",
+              "#D31145",
+              "#002B5C"
+            ],
+            "iconic": "#002B5C",
+            "primary": [
+              "#002B5C",
+              "#D31145"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 44.9817,
+            "lon": -93.2776
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/ekilby/4925516994/in/photolist-8vfyAN-7jsWXe-8Co8gh-8vfys1-9EbSVm-8vcvYn-a3uCNw-pwwc2F-djq9aM-jKSkKf-8vcvRc-jGTfZi-72vcw-bNrHnM-bzx4CU-8FGazW-sLxxSK-sLxBX8-nptEK4-nFWUDS-nFFouF-sLmgaQ-nFFiUD-n6ga3g-sLmfe1-stXtuN-nFWZaW-nDVC5L-66L7Mk-sLxCXz-7TBVHC-nHDWy4-nHDUon-nHDUrt-nFRdFL-nFzBi8-nFRcNJ-nFzBZD-nFRe1d-nHDVhg-nHDWNT-nFEMML-npod4B-npo58E-nFzCxn-nFRcEY-nFEMzm-npo5fo-nHDUPH-npnQW8) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@ekilby - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-07-09T15:05:00",
+      "time_tbd": false,
+      "short_title": "Twins at Rangers",
+      "visible_until_utc": "2022-07-10T00:05:00",
+      "stats": {
+        "listing_count": 899,
+        "average_price": 87,
+        "lowest_price_good_deals": 22,
+        "lowest_price": 22,
+        "highest_price": 693,
+        "visible_listing_count": 854,
+        "dq_bucket_counts": [
+          67,
+          264,
+          241,
+          113,
+          67,
+          74,
+          68,
+          0
+        ],
+        "median_price": 59,
+        "lowest_sg_base_price": 11,
+        "lowest_sg_base_price_good_deals": 11
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010100,
+          "name": "mlb",
+          "parent_id": 1010000,
+          "rank": 2
+        }
+      ],
+      "url": "https://seatgeek.com/twins-at-rangers-tickets/7-9-2022-arlington-texas-globe-life-field/mlb/5465588",
+      "score": 0.794,
+      "announce_date": "2021-08-04T00:00:00",
+      "created_at": "2021-08-04T20:46:32",
+      "date_tbd": false,
+      "title": "Minnesota Twins at Texas Rangers",
+      "popularity": 0.935,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": {
+        "headline": "Corey Seager Bobblehead",
+        "additional_info": "First 15,000 fans",
+        "images": {
+          "icon": "https://seatgeek.com/images/event_promotion/761b5df5-8178-4abf-a151-2c4c24fc6aed/icon.svg",
+          "png@2x": "https://seatgeek.com/images/event_promotion/761b5df5-8178-4abf-a151-2c4c24fc6aed/png_2x.png",
+          "png@3x": "https://seatgeek.com/images/event_promotion/761b5df5-8178-4abf-a151-2c4c24fc6aed/png_3x.png"
+        }
+      },
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "mlb",
+      "id": 5465590,
+      "datetime_utc": "2022-07-10T18:35:00",
+      "venue": {
+        "state": "TX",
+        "name_v2": "Globe Life Field",
+        "postal_code": "76011",
+        "name": "Globe Life Field",
+        "links": [],
+        "timezone": "America/Chicago",
+        "url": "https://seatgeek.com/venues/globe-life-field/tickets",
+        "score": 0.62,
+        "location": {
+          "lat": 32.7472,
+          "lon": -97.0838
+        },
+        "address": "734 Stadium Drive",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 50,
+        "city": "Arlington",
+        "slug": "globe-life-field",
+        "extended_address": "Arlington, TX 76011",
+        "id": 487468,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 623,
+        "capacity": 40300,
+        "display_location": "Arlington, TX"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "mlb",
+          "name": "Texas Rangers",
+          "image": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg",
+          "id": 16,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL West",
+              "display_name": "American League West",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-west"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 88
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r",
+          "url": "https://seatgeek.com/texas-rangers-tickets",
+          "score": 0.47,
+          "slug": "texas-rangers",
+          "home_venue_id": 487468,
+          "short_name": "Rangers",
+          "num_upcoming_events": 88,
+          "colors": {
+            "all": [
+              "#003278",
+              "#C0111F",
+              "#003278"
+            ],
+            "iconic": "#003278",
+            "primary": [
+              "#003278",
+              "#C0111F"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 32.7472,
+            "lon": -97.0838
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@a4gpa - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        },
+        {
+          "type": "mlb",
+          "name": "Minnesota Twins",
+          "image": "https://seatgeek.com/images/performers-landscape/minnesota-twins-49e40b/19/huge.jpg",
+          "id": 19,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/minnesota-twins-49e40b/19/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL Central",
+              "display_name": "American League Central",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-central"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 83
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/ekilby/4925516994/in/photolist-8vfyAN-7jsWXe-8Co8gh-8vfys1-9EbSVm-8vcvYn-a3uCNw-pwwc2F-djq9aM-jKSkKf-8vcvRc-jGTfZi-72vcw-bNrHnM-bzx4CU-8FGazW-sLxxSK-sLxBX8-nptEK4-nFWUDS-nFFouF-sLmgaQ-nFFiUD-n6ga3g-sLmfe1-stXtuN-nFWZaW-nDVC5L-66L7Mk-sLxCXz-7TBVHC-nHDWy4-nHDUon-nHDUrt-nFRdFL-nFzBi8-nFRcNJ-nFzBZD-nFRe1d-nHDVhg-nHDWNT-nFEMML-npod4B-npo58E-nFzCxn-nFRcEY-nFEMzm-npo5fo-nHDUPH-npnQW8",
+          "url": "https://seatgeek.com/minnesota-twins-tickets",
+          "score": 0.46,
+          "slug": "minnesota-twins",
+          "home_venue_id": 3712,
+          "short_name": "Twins",
+          "num_upcoming_events": 83,
+          "colors": {
+            "all": [
+              "#002B5C",
+              "#D31145",
+              "#002B5C"
+            ],
+            "iconic": "#002B5C",
+            "primary": [
+              "#002B5C",
+              "#D31145"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 44.9817,
+            "lon": -93.2776
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/ekilby/4925516994/in/photolist-8vfyAN-7jsWXe-8Co8gh-8vfys1-9EbSVm-8vcvYn-a3uCNw-pwwc2F-djq9aM-jKSkKf-8vcvRc-jGTfZi-72vcw-bNrHnM-bzx4CU-8FGazW-sLxxSK-sLxBX8-nptEK4-nFWUDS-nFFouF-sLmgaQ-nFFiUD-n6ga3g-sLmfe1-stXtuN-nFWZaW-nDVC5L-66L7Mk-sLxCXz-7TBVHC-nHDWy4-nHDUon-nHDUrt-nFRdFL-nFzBi8-nFRcNJ-nFzBZD-nFRe1d-nHDVhg-nHDWNT-nFEMML-npod4B-npo58E-nFzCxn-nFRcEY-nFEMzm-npo5fo-nHDUPH-npnQW8) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@ekilby - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-07-10T13:35:00",
+      "time_tbd": false,
+      "short_title": "Twins at Rangers",
+      "visible_until_utc": "2022-07-10T22:35:00",
+      "stats": {
+        "listing_count": 1172,
+        "average_price": 74,
+        "lowest_price_good_deals": 12,
+        "lowest_price": 12,
+        "highest_price": 1341,
+        "visible_listing_count": 1072,
+        "dq_bucket_counts": [
+          89,
+          399,
+          289,
+          110,
+          78,
+          87,
+          116,
+          0
+        ],
+        "median_price": 43,
+        "lowest_sg_base_price": 4,
+        "lowest_sg_base_price_good_deals": 4
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010100,
+          "name": "mlb",
+          "parent_id": 1010000,
+          "rank": 2
+        }
+      ],
+      "url": "https://seatgeek.com/twins-at-rangers-tickets/7-10-2022-arlington-texas-globe-life-field/mlb/5465590",
+      "score": 0.767,
+      "announce_date": "2021-08-04T00:00:00",
+      "created_at": "2021-08-04T20:46:33",
+      "date_tbd": false,
+      "title": "Minnesota Twins at Texas Rangers",
+      "popularity": 0.919,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": {
+        "headline": "1990s Rangers Baseball Cards",
+        "additional_info": "First 15,000 fans",
+        "images": {
+          "icon": "https://seatgeek.com/images/event_promotion/f79db8d0-4200-449a-9bef-ad63c9d39b1b/icon.svg",
+          "png@2x": "https://seatgeek.com/images/event_promotion/f79db8d0-4200-449a-9bef-ad63c9d39b1b/png_2x.png",
+          "png@3x": "https://seatgeek.com/images/event_promotion/f79db8d0-4200-449a-9bef-ad63c9d39b1b/png_3x.png"
+        }
+      },
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "mlb",
+      "id": 5465592,
+      "datetime_utc": "2022-07-12T00:05:00",
+      "venue": {
+        "state": "TX",
+        "name_v2": "Globe Life Field",
+        "postal_code": "76011",
+        "name": "Globe Life Field",
+        "links": [],
+        "timezone": "America/Chicago",
+        "url": "https://seatgeek.com/venues/globe-life-field/tickets",
+        "score": 0.62,
+        "location": {
+          "lat": 32.7472,
+          "lon": -97.0838
+        },
+        "address": "734 Stadium Drive",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 50,
+        "city": "Arlington",
+        "slug": "globe-life-field",
+        "extended_address": "Arlington, TX 76011",
+        "id": 487468,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 623,
+        "capacity": 40300,
+        "display_location": "Arlington, TX"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "mlb",
+          "name": "Texas Rangers",
+          "image": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg",
+          "id": 16,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/texas-rangers-c2f361/16/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL West",
+              "display_name": "American League West",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-west"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 88
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r",
+          "url": "https://seatgeek.com/texas-rangers-tickets",
+          "score": 0.47,
+          "slug": "texas-rangers",
+          "home_venue_id": 487468,
+          "short_name": "Rangers",
+          "num_upcoming_events": 88,
+          "colors": {
+            "all": [
+              "#003278",
+              "#C0111F",
+              "#003278"
+            ],
+            "iconic": "#003278",
+            "primary": [
+              "#003278",
+              "#C0111F"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 32.7472,
+            "lon": -97.0838
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/a4gpa/4591377118/in/photolist-HG1Ar-6G8DGT-6rWf5N-4anGGm-4aiDfH-4anHc1-7ZJ1ss-aqx6nD-aqx3EV-aqzEFA-6G8FCc-aqwYWz-aqzFwq-4anGc7-4aiFUF-4anFM7-aqx2ev-aqzGLy-aqx1Ln-aqzJn7-aqzNg1-6G8EXn-aqx2Xr-8QpUwa-aqx5SK-aqzKS7-aqx53z-aqx1vB-79NEXJ-79JPMZ-aqzHxo-aqx3oH-aqx4wp-aqzGrG-9wjMuE-6LfAWV-6LkckC-6Lnoe1-6LfZbF-6LkiqL-5c1QZw-5c1SmU-5bWBXF-5c1TqQ-5c1VPq-6Lihat-HG1AF-79JQBi-6LhPC6-79JQ8r) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@a4gpa - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        },
+        {
+          "type": "mlb",
+          "name": "Oakland Athletics",
+          "image": "https://seatgeek.com/images/performers-landscape/oakland-athletics-643432/14/huge.jpg",
+          "id": 14,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/oakland-athletics-643432/14/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "display_name": "American League",
+              "display_type": "League",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1010100,
+              "short_name": "AL West",
+              "display_name": "American League West",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "american-league-west"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 83
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010100,
+              "name": "mlb",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/redlegsfan21/15993646150/in/photolist-qniBMQ-qDRDND-ht5kQZ-ht6331-ht62ph-ht5WiA-ht6Ftx-ht5gx1-5aUypU-ddtWXp-5aUxv1-qb37Sp-nuE1aX-nLRmsz-nLRmw2-nK6Xyf-nNVWV4-nM6Hv1-66zEjk-ht61ky-ht5Ydh-ht5k7V-nuDEMi-efvrRn-4Tvdo6-dohGjL-dohwER-dohAq8-dohLb3-dohASD-dohJys-dohBHP-dohzXt-dohFXq-dohwN8-dohAvK-dohxFc-dohLv9-dohzLX-dohzGX-dohHrG-dohJ59-dohz5z-dohJtU-dohFnh-dohF3W-dohwRB-dohGsy-dohwY2-dohBuZ",
+          "url": "https://seatgeek.com/oakland-athletics-tickets",
+          "score": 0.44,
+          "slug": "oakland-athletics",
+          "home_venue_id": 14,
+          "short_name": "Athletics",
+          "num_upcoming_events": 83,
+          "colors": {
+            "all": [
+              "#003831",
+              "#EFB21E",
+              "#003831"
+            ],
+            "iconic": "#003831",
+            "primary": [
+              "#003831",
+              "#EFB21E"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 37.7514,
+            "lon": -122.201
+          },
+          "image_rights_message": "[This image](https://www.flickr.com/photos/redlegsfan21/15993646150/in/photolist-qniBMQ-qDRDND-ht5kQZ-ht6331-ht62ph-ht5WiA-ht6Ftx-ht5gx1-5aUypU-ddtWXp-5aUxv1-qb37Sp-nuE1aX-nLRmsz-nLRmw2-nK6Xyf-nNVWV4-nM6Hv1-66zEjk-ht61ky-ht5Ydh-ht5k7V-nuDEMi-efvrRn-4Tvdo6-dohGjL-dohwER-dohAq8-dohLb3-dohASD-dohJys-dohBHP-dohzXt-dohFXq-dohwN8-dohAvK-dohxFc-dohLv9-dohzLX-dohzGX-dohHrG-dohJ59-dohz5z-dohJtU-dohFnh-dohF3W-dohwRB-dohGsy-dohwY2-dohBuZ) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) (@redlegsfan21 - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-07-11T19:05:00",
+      "time_tbd": false,
+      "short_title": "Athletics at Rangers",
+      "visible_until_utc": "2022-07-12T04:05:00",
+      "stats": {
+        "listing_count": 879,
+        "average_price": 75,
+        "lowest_price_good_deals": 14,
+        "lowest_price": 14,
+        "highest_price": 1048,
+        "visible_listing_count": 840,
+        "dq_bucket_counts": [
+          77,
+          276,
+          255,
+          97,
+          69,
+          92,
+          78,
+          0
+        ],
+        "median_price": 49,
+        "lowest_sg_base_price": 6,
+        "lowest_sg_base_price_good_deals": 6
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010100,
+          "name": "mlb",
+          "parent_id": 1010000,
+          "rank": 2
+        }
+      ],
+      "url": "https://seatgeek.com/athletics-at-rangers-tickets/7-11-2022-arlington-texas-globe-life-field/mlb/5465592",
+      "score": 0.736,
+      "announce_date": "2021-08-04T00:00:00",
+      "created_at": "2021-08-04T20:46:33",
+      "date_tbd": false,
+      "title": "Oakland Athletics at Texas Rangers",
+      "popularity": 0.899,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    }
+  ],
+  "meta": {
+    "total": 88,
+    "took": 6,
+    "page": 1,
+    "per_page": 10,
+    "geolocation": null
+  }
+}
