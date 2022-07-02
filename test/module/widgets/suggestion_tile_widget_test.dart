@@ -27,10 +27,6 @@ void main() {
 Widget getMaterialWrapper(Widget child) {
   return SizedBox(
     height: 400,
-    child: MaterialApp(
-        theme: ThemeData(
-          primarySwatch: Colors.purple,
-        ),
-        home: Material(child: child)),
+    child: MaterialApp(home: Material(child: child)),
   );
 }
