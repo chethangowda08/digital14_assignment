@@ -9,7 +9,6 @@ import 'package:digital_search_assignment/module/view/widgets/suggestion_list_wi
 import 'package:digital_search_assignment/module/view_model/search_view_model.dart';
 
 import 'package:flutter/material.dart';
-import 'package:intl/intl.dart';
 
 const String appBarTitle = "Digital Assignment";
 const String hintText = "please search here";

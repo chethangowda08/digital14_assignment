@@ -57,7 +57,7 @@ class _DigitalSearchResultScreenState extends State<DigitalSearchResultScreen> {
                 SearchHelper.getddMMMMyyyykkmm(
                     events?.eventDate ?? DateTime.now()),
                 style: const TextStyle(
-                  fontSize: kSize24,
+                  fontSize: kSize20,
                   fontWeight: FontWeight.w700,
                 ),
               ),
