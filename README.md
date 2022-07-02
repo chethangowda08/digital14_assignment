@@ -36,3 +36,10 @@ Flutter app for Digital Search Assignment
     * Constant object names: lowerCamelCase starting with k | Eg: kCanvasBackgroundColor
     * ENUM values: lowerCamelCase | Eg: firstSelection
 
+
+#screenshots
+![Uploading Screenshot 20<img width="322" alt="Screenshot 2022-07-02 at 9 05 14 AM" src="https://user-images.githubusercontent.com/51160174/176989650-5ee3680a-7fd4-4ea9-b41e-240c9b6d1c9f.png">
+22-07-02 at 9.03.40 AM.png…]()
+<img width="310" alt="Screenshot 2022-07-02 at 9 04 59 AM" src="https://user-images.githubusercontent.com/51160174/176989646-e3fadb09-4ae3-4769-b945-7cb11f90c62e.png">
+
+
