@@ -38,8 +38,14 @@ Flutter app for Digital Search Assignment
 
 
 #screenshots
-![Uploading Screenshot 20<img width="322" alt="Screenshot 2022-07-02 at 9 05 14 AM" src="https://user-images.githubusercontent.com/51160174/176989650-5ee3680a-7fd4-4ea9-b41e-240c9b6d1c9f.png">
-22-07-02 at 9.03.40 AM.png…]()
-<img width="310" alt="Screenshot 2022-07-02 at 9 04 59 AM" src="https://user-images.githubusercontent.com/51160174/176989646-e3fadb09-4ae3-4769-b945-7cb11f90c62e.png">
+
+<img width="304" alt="Screenshot 2022-07-02 at 9 03 40 AM" src="https://user-images.githubusercontent.com/51160174/176989688-b5454dc8-9f7e-48dc-965c-7c35d9d39ab4.png">
+
+
+<img width="310" alt="Screenshot 2022-07-02 at 9 04 59 AM" src="https://user-images.githubusercontent.com/51160174/176989706-cd42ad30-33ce-4b06-ac7e-69836e500c76.png">
+
+
+
+<img width="322" alt="Screenshot 2022-07-02 at 9 05 14 AM" src="https://user-images.githubusercontent.com/51160174/176989713-22159fa9-5042-491c-a35a-81d8a1681c22.png">
 
 
