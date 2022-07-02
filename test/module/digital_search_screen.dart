@@ -8,8 +8,8 @@ import 'package:flutter_test/flutter_test.dart';
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
   setUpAll(() => HttpOverrides.global = null);
-  group("Search suggestion screen", () {
-    testWidgets('Search suggestion screen', (WidgetTester tester) async {
+  group("Search  screen", () {
+    testWidgets('Search  screen', (WidgetTester tester) async {
       await tester.runAsync(() async {
         await tester.pumpWidget(MaterialApp(
           routes: AppRoutes.getRoutes(),
@@ -18,10 +18,11 @@ void main() {
               return TextButton(
                 child: const Text("press"),
                 onPressed: () => Navigator.pushNamed(
-                    context, AppRoutes.digitalSearchResultScreen,
+                    context, AppRoutes.digitalSearchScreen,
                     arguments: EventModel(
                         title: "title",
-                        url: "url",
+                        url:
+                            "https://www.learningcontainer.com/wp-content/uploads/2020/07/Large-Sample-Image-download-for-Testing.jpg",
                         eventDate: DateTime.now(),
                         displayLocation: "displayLocation",
                         performerList: [PerformerList(image: "")])),

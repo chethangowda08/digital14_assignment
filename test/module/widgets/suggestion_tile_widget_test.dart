@@ -1,21 +1,36 @@
+import 'dart:io';
+
 import 'package:digital_search_assignment/module/view/widgets/suggestion_list_widget.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-const String networkImageKey = "networkImageKey";
 void main() {
-  testWidgets('Search Input Widget Test...', (tester) async {
-    await tester.pumpWidget(const MaterialApp(
-      home: Scaffold(
-        body: SuggestionListTile(
-          title: "",
-          eventDate: "",
-          subtitle: "",
-          url: "",
-        ),
-      ),
-    ));
-    await tester.tap(find.byKey(Key("networkImageKey")));
-    await tester.pumpAndSettle();
+  TestWidgetsFlutterBinding.ensureInitialized();
+  setUpAll(() => HttpOverrides.global = null);
+  group("Description Empty State Widget", () {
+    testWidgets("Description Empty State Widget", (tester) async {
+      Widget widget = getMaterialWrapper(
+        const SuggestionListTile(
+            title: "title",
+            subtitle: "subtitle",
+            url:
+                "https://www.learningcontainer.com/wp-content/uploads/2020/07/Large-Sample-Image-download-for-Testing.jpg",
+            eventDate: "eventDate"),
+      );
+      await tester.pumpWidget(widget);
+      await tester.pumpAndSettle();
+    });
   });
+}
+
+Widget getMaterialWrapper(Widget child) {
+  return SizedBox(
+    height: 400,
+    child: MaterialApp(
+        theme: ThemeData(
+          primarySwatch: Colors.purple,
+        ),
+        home: Material(child: child)),
+  );
 }
