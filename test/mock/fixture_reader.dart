@@ -7,5 +7,5 @@ String fixture(String name) {
   if (dir.endsWith('/test')) {
     dir = dir.replaceAll('/test', '');
   }
-  return File('$dir/test/mocks/$name').readAsStringSync();
+  return File('$dir/test/mock/$name').readAsStringSync();
 }

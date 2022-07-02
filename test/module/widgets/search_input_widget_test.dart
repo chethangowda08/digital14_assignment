@@ -6,7 +6,7 @@ void main() {
   TextEditingController _searchTextController = TextEditingController();
   FocusNode _focusNode = FocusNode();
 
-  testWidgets('Car Search Input Widget Test...', (tester) async {
+  testWidgets(' Search Input Widget Test...', (tester) async {
     await tester.pumpWidget(MaterialApp(
       home: Scaffold(
         body: SearchInputWidget(
