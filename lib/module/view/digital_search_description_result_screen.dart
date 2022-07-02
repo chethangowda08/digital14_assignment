@@ -1,5 +1,6 @@
 import 'package:digital_search_assignment/core/app_colors.dart';
 import 'package:digital_search_assignment/core/consts.dart';
+import 'package:digital_search_assignment/module/helper/search_helper.dart';
 import 'package:digital_search_assignment/module/view_model/search_view_model.dart';
 import 'package:flutter/material.dart';
 
@@ -53,7 +54,8 @@ class _DigitalSearchResultScreenState extends State<DigitalSearchResultScreen> {
             Padding(
               padding: const EdgeInsets.only(top: kSize7),
               child: Text(
-                events?.eventDate.toString() ?? "",
+                SearchHelper.getddMMMMyyyykkmm(
+                    events?.eventDate ?? DateTime.now()),
                 style: const TextStyle(
                   fontSize: kSize24,
                   fontWeight: FontWeight.w700,

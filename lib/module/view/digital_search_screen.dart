@@ -3,11 +3,13 @@ import 'package:digital_search_assignment/core/app_routes.dart';
 import 'package:digital_search_assignment/core/bloc/bloc_builder.dart';
 import 'package:digital_search_assignment/core/consts.dart';
 import 'package:digital_search_assignment/module/bloc/search_bloc.dart';
+import 'package:digital_search_assignment/module/helper/search_helper.dart';
 import 'package:digital_search_assignment/module/view/widgets/search_input_widget.dart';
 import 'package:digital_search_assignment/module/view/widgets/suggestion_list_widget.dart';
 import 'package:digital_search_assignment/module/view_model/search_view_model.dart';
 
 import 'package:flutter/material.dart';
+import 'package:intl/intl.dart';
 
 const String appBarTitle = "Digital Assignment";
 const String hintText = "please search here";
@@ -85,9 +87,8 @@ class _DigitalSearchScreenState extends State<DigitalSearchScreen> {
                             title: _searchBloc.state.eventModel[index].title,
                             subtitle: _searchBloc
                                 .state.eventModel[index].displayLocation,
-                            eventDate: _searchBloc
-                                .state.eventModel[index].eventDate
-                                .toIso8601String(),
+                            eventDate: SearchHelper.getddMMMMyyyykkmm(
+                                _searchBloc.state.eventModel[index].eventDate),
                             onTap: () {
                               _navigateToNextScreen(
                                   _searchBloc.state.eventModel[index]);

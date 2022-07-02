@@ -1,5 +1,6 @@
 import 'package:digital_search_assignment/domain/model/digital_assignment_model.dart';
 import 'package:digital_search_assignment/module/view_model/search_view_model.dart';
+import 'package:intl/intl.dart';
 
 class SearchHelper {
   static List<PerformerList> getImage(List<Performer>? perfomer) {
@@ -13,5 +14,11 @@ class SearchHelper {
       ));
     }
     return imageUrl;
+  }
+
+  static String getddMMMMyyyykkmm(DateTime date) {
+    const _kddMMMyyyykkmm = "MMMM,  d EEEE yyyy hh:mm aa";
+    DateFormat d = DateFormat(_kddMMMyyyykkmm);
+    return (d.format(date));
   }
 }

@@ -63,8 +63,7 @@ class Event {
 
   Map<String, dynamic> toMap() => {
         "venue": venue == null ? null : venue!.toMap(),
-        "datetime_utc":
-            datetimeLocal == null ? null : datetimeLocal!.toIso8601String(),
+        "datetime_utc": datetimeLocal,
         "url": url,
         "title": title,
         "performers": performers == null
