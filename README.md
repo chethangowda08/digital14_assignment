@@ -8,7 +8,7 @@ Flutter app for Digital Search Assignment
 ## Project Description
   * State Management used for this project is BLOC.
   * Architecture implemented in this project its Clean Architecture.
-  * Backend Api - https://api.seatgeek.com/2/events?client_id=Mjc2NjI2Mjd8MTY1NjU5MjQ2Ni44MDM3MjQ4&q= as provided to me from Digital14 team.
+  * Backend Api - https://api.seatgeek.com/2/events?client_id=Mjc2NjI2Mjd8MTY1NjU5MjQ2Ni44MDM3MjQ4&q="Texas"
 
 # scope of the digital search assignment
    * Two UI screens
